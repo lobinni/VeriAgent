@@ -1,0 +1,9 @@
+{
+  "network": "genlayer-studio",
+  "chainId": 61999,
+  "address": "0xb91f66881b27EA184c92468579dCFcB0F39bDFE4",
+  "deployTx": "0x6c34a8759b8bb34650eac1e42a714f32c0bbce41e0c7fadc904fcdc3db54fb4a",
+  "deployTxUrl": "https://explorer-studio.genlayer.com/tx/0x6c34a8759b8bb34650eac1e42a714f32c0bbce41e0c7fadc904fcdc3db54fb4a",
+  "explorer": "https://explorer-studio.genlayer.com",
+  "deployedAt": "2026-07-27T00:00:00.000Z"
+}

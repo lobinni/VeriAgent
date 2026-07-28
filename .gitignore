@@ -1,0 +1,30 @@
+# Secrets and environment
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+.next/
+dist/
+*.tsbuildinfo
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Logs and local artifacts
+*.log
+artifacts/
+cache/
+
+# Editor / OS / deploy
+.DS_Store
+.vercel/
+
+# Scripts dependency lock (optional - can be regenerated)
+scripts/package-lock.json
